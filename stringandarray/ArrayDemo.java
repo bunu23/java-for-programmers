@@ -14,10 +14,10 @@ public class ArrayDemo {
         int length = numbers.length;
         System.out.println("Length of the array: " + length);
 
-        // Modify an element in the array
-        numbers[2] = 10; // Change the third element (index 2) to 10
+        // Modify an element
+        numbers[2] = 10;
 
-        // Print the modified array
+        
         System.out.println("Modified array elements:");
         for (int number : numbers) {
             System.out.println(number);
