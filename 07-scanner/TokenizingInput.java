@@ -1,4 +1,5 @@
 
+//tokenize a string input into words
 import java.util.Scanner;
 
 public class TokenizingInput {

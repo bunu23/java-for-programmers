@@ -1,4 +1,6 @@
 
+//Summing User Inputs
+
 import java.util.Scanner;
 
 public class SumInputs {

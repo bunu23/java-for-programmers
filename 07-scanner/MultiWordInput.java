@@ -1,6 +1,7 @@
 
 import java.util.Scanner;
 
+// Reading a Line with Multiple Words
 public class MultiWordInput {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

@@ -1,4 +1,5 @@
 
+//Reading an Array of Integers
 import java.util.Scanner;
 
 // reading array of integers
