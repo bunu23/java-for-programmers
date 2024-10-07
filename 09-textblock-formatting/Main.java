@@ -112,3 +112,55 @@ public class Main {
     System.out.println(leftJustified);
   }
 }
+
+/**
+ * Hello, World! Here's an example of a formatted string!
+ * ----------------------------
+ * Welcome to Java programming.
+ * 
+ * Here are some formatting options:
+ * 
+ * 1. **Bold Text**: Use Markdown or HTML to format text.
+ * 2. *Italic Text*: Using Markdown style for italics.
+ * 
+ * List of Items:
+ * - Java
+ * - Python
+ * - C++
+ * 
+ * > "The only limit to our realization of tomorrow is our doubts of today." –
+ * Franklin D. Roosevelt
+ * 
+ * 
+ * {
+ * "employee": {
+ * "name": "Alice",
+ * "age": 30,
+ * "department": "Engineering",
+ * "skills": [
+ * "Java",
+ * "SQL",
+ * "DevOps"
+ * ]
+ * }
+ * }
+ * 
+ * SELECT name, age FROM employees
+ * WHERE department = 'Engineering'
+ * AND age > 25
+ * ORDER BY name ASC;
+ * 
+ * Using Format Specifiers:
+ * Name: Alice
+ * Age: 30
+ * Balance: $1234.57
+ * Active: true
+ * Hexadecimal: ff
+ * Octal: 377
+ * First Initial: A
+ * Line 1
+ * Line 2
+ * Current Date: 2024-10-07
+ * Padded Integer: 00030
+ * Left Justified: Alice
+ */
